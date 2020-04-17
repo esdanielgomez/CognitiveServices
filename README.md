@@ -20,7 +20,7 @@ Website: https://www.customvision.ai/
 
 Azure resource required: https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/
 
-## List of instructions to perform an application of a intelligent auditorium
+## Language Understanding
 
 This is a service designed to identify valuable information in conversations, LUIS interprets the user's objectives (intentions), and extracts valuable information from sentences (entities) for a high-quality nuanced language model. 
 
