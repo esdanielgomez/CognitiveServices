@@ -1,7 +1,7 @@
 # IA - Traductor Inteligente
 Aplicación en Python para traducir por voz de un idioma a otro. Esto gracias a los Servicios Cognitivos de Microsoft: Speech y Text. 
 
-Para ejecutar la aplicación, se requieren las licencias de esos dos servicios:
+Para ejecutar la aplicación, se requieren las suscripciones de esos dos servicios:
 
 https://azure.microsoft.com/es-es/services/cognitive-services/text-to-speech/
 
@@ -15,4 +15,4 @@ https://azure.microsoft.com/es-es/services/cognitive-services/translator-text-ap
 
 Daniel Gomez Jaramillo
 
-daniel.gomez@studentpartner.com
+[twitter.com/esDanielGomez](https://twitter.com/esDanielGomez)
